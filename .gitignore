@@ -3,3 +3,4 @@ data/
 __pycache__/
 models/vgg_fe_adam.pt
 models/vgg_fe_adamw_cosine.pt
+models/vgg_fe_sgd_cosine.pt

@@ -1,3 +1,4 @@
 data/
 .ipynb_checkpoints/
 __pycache__/
+models/vgg_fe_adam.pt

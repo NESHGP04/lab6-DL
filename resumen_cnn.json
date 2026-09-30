@@ -1,0 +1,23 @@
+{
+  "modelo": "CNN desde cero",
+  "iteraci\u00f3n": "ancha",
+  "hardware": "Apple M5 (GPU integrada, backend MPS)",
+  "params_totales": 2198218,
+  "params_entrenables": 2198218,
+  "macs_por_imagen": 153815552,
+  "flops_por_imagen": 307631104,
+  "latencia_ms_batch1": 1.3719101400000375,
+  "latencia_ms_por_imagen_batch128": 0.10586530882812464,
+  "s_por_epoch": 32.84052984237671,
+  "epochs_hasta_mejor": 21,
+  "tiempo_total_s": 847.0962719917297,
+  "mem_pico_mb_mps_aprox": 1114.5625,
+  "flops_entrenamiento_hasta_mejor": 872134179840000.0,
+  "flops_entrenamiento_todos_epochs": 1038254976000000.0,
+  "test_acc": 0.9018,
+  "test_precision": 0.901483853910954,
+  "test_recall": 0.9017999999999999,
+  "test_f1": 0.9015196529961729,
+  "val_acc": 0.9062,
+  "val_f1": 0.9059372067094145
+}

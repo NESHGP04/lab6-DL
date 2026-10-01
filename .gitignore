@@ -5,3 +5,4 @@ models/vgg_fe_adam.pt
 models/vgg_fe_adamw_cosine.pt
 models/vgg_fe_sgd_cosine.pt
 models/vgg_fe_sin_aug.pt
+models/vgg_ft_b5.pt

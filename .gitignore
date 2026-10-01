@@ -8,3 +8,4 @@ models/vgg_fe_sin_aug.pt
 models/vgg_ft_b5.pt
 models/vgg_ft_b4b5.pt
 models/vgg_ft_b3b4b5.pt
+models/vgg_ft_b4b5_lr_alto.pt
